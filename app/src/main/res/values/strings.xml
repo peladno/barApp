@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BarApp</string>
+    <string name="add_button">Boton de agregar</string>
+    <string name="tbMain_Title">Bienvenido AppBar</string>
+    <string name="title_tables_fragment">Sin Registros Creados</string>
+    <string name="tv_id_table">Numero de mesa:</string>
+    <string name="tv_quantity_items">Cantidad de items:</string>
+    <string name="tv_total_price">Precio Total $</string>
+    <string name="tv_state_account">Estado del pago:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_tbDetails">Numero de Mesa</string>
+    <string name="input_name_table">Identificador de la Mesa</string>
+    <string name="required_text">Campo Requerido</string>
+    <string name="btn_save">Guardar</string>
+    <string name="btn_salir">Salir</string>
+    <string name="input_item_name">Nombre del Producto</string>
+    <string name="input_item_cant">Ingrese Cantidad</string>
+    <string name="input_item_price">Precio del producto sin puntos ni comas</string>
+</resources>

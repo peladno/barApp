@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tbMain_Title">Bienvenido AppBar</string>
+    <string name="input_name_table">Identificador de la Mesa</string>
+    <string name="btn_save">Guardar</string>
+</resources>
